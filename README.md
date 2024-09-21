@@ -78,8 +78,8 @@ const items = await fetch(
 
 - Sponsors:
     - [Intuit]()
-    - [neo4j](), [
-    - Bronze:
+    - [neo4j](), [Auth0 by Okta]()
+    - [Python]()
       
 - `Tech used and links associated`
 
@@ -143,11 +143,23 @@ Poetry may or not be one tool to solve everything? PyPI
 - Philip James: phildini@phildini.net 
 - Involved in multiple companies: Crowdalert.com , etc... 
 
+<h3>Pyscript</h3>
+- PyScript [QR Code link](https://fpliger.pyscriptapps.com/talks-pybay-2024/latest/)
+- Platform that allows you to write proper python? 
+- Concern about bandwidth, security, 
+- Start with [PyScript](https://pyscript.net/)
 
+``` <script type="mpy" scr-"./main.py" config="./pyscript.toml"></script> ```
+- alternative version
+
+``` <script type="mpy" scr-"./main.py" worker async></script> ```
+
+- Python editor element as well, LTK newer framework based on JQuery, PuePy?, BeeWare?, React Pyscript, Tufts has been using Pyscript this last year? 
 
 
 TODO: 
 - Get a signed copy of the book? Or just look at it? IDK? WHY?
 - Follow-up with any the sponsors from this event?
 - [Kwargs refresher](https://book.pythontips.com/en/latest/args_and_kwargs.html)
+- Ignore downstream deviations
 
