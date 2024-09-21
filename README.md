@@ -106,9 +106,15 @@ const items = await fetch(
 <!-- 
 ### TODO stx: 
 Future Structure (stx):
-- PyBay - 2024
+
+--> 
+<h3>Pamela Fox: Improve with Python </h3>
+https://pamelafox.github.io/improv-with-python/
+
+- Improve with Python... fun, interactive talk using language models.
+
 <h3>Data Science: Apache Arrow, Pandas and Parquet</h3>
---> Datasources -> Data Collection -> Data storage & Transofrmation
+Datasources -> Data Collection -> Data storage & Transofrmation
 Telegraf open source injection agents is great agent? Influx or ParK files or "output plug ins": Look at the slide deck in file... 
 SQl Aggregatoin fx  - DB3.0 Apache Data Query Engineer noSQL using SQL language? Google Later? 
 Telegraf? Dispatched Q and stream the data? 
@@ -120,6 +126,28 @@ Flight (arrow) vs Flight SQL (superset: ORM's UI builders)
    Prophet - weather forestcasting (combines seasons, holidays, etc..) Time series pitfalls... look up later
 Solution: Apache Arrow allows data transfer with ease (centralized system to plug into other databases)
 
+<h3>Data Science: Raising Python Quality in AI orgs</h3>
+- AI driven expert platform - look at raw slide deck at EoD
+    - AI vs Quantum Computering
+    - Open Source vs Recommender Library: Recommended approproaches, Item-Scorer, Estimator 
+- Data Science / AI practitioners:
+    - Analyst, Data Scientist, Machine Learning (MLE), Software Engineer... 
+-- SEEDS: biweekly workshop for improving data science practitioners - defining consistent standards or terminology? 
+    - isaac_storch@intuit.com (volunteering?)
+- Python tooling and automation 
+    - Services: Rest, GraphQL, AI orch; Lambdas:; Machine Learning Models: Scikit xgboost, Tensor flow, PyTortch?
+Poetry may or not be one tool to solve everything? PyPI
+- 
+
+<h3>Automate City Data: Python</h3>
+- Philip James: phildini@phildini.net 
+- Involved in multiple companies: Crowdalert.com , etc... 
+
+
+
+
 TODO: 
 - Get a signed copy of the book? Or just look at it? IDK? WHY?
-- Follow-up with any the sponsors from this event? 
+- Follow-up with any the sponsors from this event?
+- [Kwargs refresher](https://book.pythontips.com/en/latest/args_and_kwargs.html)
+
