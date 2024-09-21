@@ -154,7 +154,11 @@ Poetry may or not be one tool to solve everything? PyPI
 
 ``` <script type="mpy" scr-"./main.py" worker async></script> ```
 
-- Python editor element as well, LTK newer framework based on JQuery, PuePy?, BeeWare?, React Pyscript, Tufts has been using Pyscript this last year? 
+- Python editor element as well, LTK newer framework based on JQuery, PuePy?, BeeWare?, React Pyscript, Tufts has been using Pyscript this last year?
+  
+<h3>13 Fun Facts about Pythons</h3>
+- update accordingly? 
+- Email: allardbrain@gmail.com
 
 
 TODO: 
