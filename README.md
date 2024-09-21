@@ -160,9 +160,28 @@ Poetry may or not be one tool to solve everything? PyPI
 - update accordingly? 
 - Email: allardbrain@gmail.com
 
+  
+<h3>Topic Model By Search</h3>
+- Clean up documents more, 
+- ElasticSearch, get slide deck online? 
+- Embedding for that topic and store it in the cache? 
+- Training topic models, use case matter... localized topic embeddings improve results, 
+- kas@joinunified.us or .com? 
+
+<h3> Accelerating ML Prototyping</h3>
+- Parul Gupta: Production Engineer, Meta 
+- ML Lifestyle: project, ML Prototyping[dataengineering/ML model development]/[mointoring/analysis], Deployment
+- Jupyter notebooks: Language agonistic, Backend, 
+- Conda developed by Anaconda package management: lower learning curve? Model delivery can more freely play with github projects
+- Bento - internalized for Meta based on code bases within Meta? 
+
+<h3>Teaching Python?</h3>
+- Motivates learning and deeper understanding 
+- Keep it Simple Silly & Bloom's Taxonomy: Remember > Understand > Apply > Analyze > Evaluate > Create
+- Big Data is a potential concern? 
 
 TODO: 
-- Get a signed copy of the book? Or just look at it? IDK? WHY?
+-  Python book author [here](https://hairysun.com/how-i-spent-three-years-writing-a-book)
 - Follow-up with any the sponsors from this event?
 - [Kwargs refresher](https://book.pythontips.com/en/latest/args_and_kwargs.html)
 - Ignore downstream deviations
