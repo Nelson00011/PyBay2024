@@ -1,9 +1,9 @@
-<h1 align="center">projectsFULLSTACK</h1>
+<h1 align="center">PyBay 2024</h1>
 
 `main image`
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs
+Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hackbright Coding Academy Alumni Resources](https://hackbrightacademy.com/). Python Developers gathering to gether sharing information in regards to the Python Developer Community in the San Francisco, CA area. 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -76,7 +76,11 @@ const items = await fetch(
 --------------------------
 ## Resources `<examples below>`
 
-- `Tech used and links associated`
+- Sponsors:
+    - [Intuit]()
+    - [neo4j](), [
+    - Bronze:
+      
 - `Tech used and links associated`
 
 `<examples below>`
@@ -102,4 +106,20 @@ const items = await fetch(
 <!-- 
 ### TODO stx: 
 Future Structure (stx):
--->
+- PyBay - 2024
+<h3>Data Science: Apache Arrow, Pandas and Parquet</h3>
+--> Datasources -> Data Collection -> Data storage & Transofrmation
+Telegraf open source injection agents is great agent? Influx or ParK files or "output plug ins": Look at the slide deck in file... 
+SQl Aggregatoin fx  - DB3.0 Apache Data Query Engineer noSQL using SQL language? Google Later? 
+Telegraf? Dispatched Q and stream the data? 
+PyArrow - python version of Apache Arrow for the data format transfer...
+Apache Parquet - look into...
+Apache Arrow - data analytics and tooling and basics, standard... columnar data format - CPU and GPU architecture? 
+Flight (arrow) vs Flight SQL (superset: ORM's UI builders)
+- Looking at NOAA for jupiter notebook that can be examined for changes overtime...output only, not the input or inducing factors...
+   Prophet - weather forestcasting (combines seasons, holidays, etc..) Time series pitfalls... look up later
+Solution: Apache Arrow allows data transfer with ease (centralized system to plug into other databases)
+
+TODO: 
+- Get a signed copy of the book? Or just look at it? IDK? WHY?
+- Follow-up with any the sponsors from this event? 
