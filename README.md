@@ -1,6 +1,6 @@
 <h1 align="center">PyBay 2024</h1>
 
-`main image`
+![PyBay](link here)
 
 ## Description:
 Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hackbright Coding Academy Alumni Resources](https://hackbrightacademy.com/). Python Developers gathering to gether sharing information in regards to the Python Developer Community in the San Francisco, CA area. 
