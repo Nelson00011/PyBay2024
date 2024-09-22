@@ -6,14 +6,12 @@
 Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hackbright Coding Academy Alumni Resources](https://hackbrightacademy.com/). Python Developers gathering to gether sharing information in regards to the Python Developer Community in the San Francisco, CA area. 
 
 --------------------------
-## Resources
+## Resources & Notes:
 
-      
-#### **Notes on Talks:** 
+<h3>Improve with Python </h3>
+<h5>Pamela Fox</h5>
 
-<h3>Pamela Fox: Improve with Python </h3>
-https://pamelafox.github.io/improv-with-python/
-
+- linked to github repo [here](https://pamelafox.github.io/improv-with-python/)
 - Improve with Python... fun, interactive talk using language models.
 
 <h3>Data Science: Apache Arrow, Pandas and Parquet</h3>
@@ -124,7 +122,7 @@ Poetry may or not be one tool to solve everything? PyPI
 
 
 ---------
-TODO: 
+#### TODO: 
 -  Python book author [here](https://hairysun.com/how-i-spent-three-years-writing-a-book)
 - Follow-up with any the sponsors from this event?
 - [Kwargs refresher](https://book.pythontips.com/en/latest/args_and_kwargs.html)
@@ -132,6 +130,7 @@ TODO:
 - Fix Links Above & linkedIn Connect?
 - Clean-up ReadME and add releveant code and resources
 <h5>Elvis Pranskevichus | EdgeDB</h5>
+
 
 <!-- 
 ### TODO stx: 
