@@ -1,9 +1,11 @@
 <h1 align="center">PyBay 2024</h1>
 
-![PyBay](link here)
+<p align="center">
+  <img src="https://global.discourse-cdn.com/business6/uploads/python1/original/3X/4/b/4ba1474ea28c832be8eb14eb84c255e6352e10ef.png" />
+</p>
 
 ## Description:
-Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hackbright Coding Academy Alumni Resources](https://hackbrightacademy.com/). Python Developers gathering to gether sharing information in regards to the Python Developer Community in the San Francisco, CA area. 
+Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hackbright Coding Academy Alumni Resources](https://hackbrightacademy.com/). Python Developers sharing information in regards to the Python Developer Community in the San Francisco, CA area. 
 
 --------------------------
 ## Resources & Notes:
@@ -116,9 +118,10 @@ Poetry may or not be one tool to solve everything? PyPI
 - Coverage Goals: Return annotation, strict files, removeing error suppression, removing any
 
 #### **Sponsors:** 
-    - [Intuit]()
-    - [neo4j](), [Auth0 by Okta]()
-    - [Python]()
+
+- [Intuit](https://www.intuit.com/)
+- [neo4j](https://neo4j.com/), [Auth0 by Okta](https://www.okta.com/okta-and-auth0/)
+- [Python](https://www.python.org/)
 
 
 ---------
