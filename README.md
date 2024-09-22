@@ -180,9 +180,24 @@ Poetry may or not be one tool to solve everything? PyPI
 - Keep it Simple Silly & Bloom's Taxonomy: Remember > Understand > Apply > Analyze > Evaluate > Create
 - Big Data is a potential concern? 
 
+<h3>Improve Part 2: Systems</h3>
+- PyTest: Testing code is incredibly important...
+- Test Automation Period?: Unit, Service, Browser
+
+<h3>Practical GraphRAG: LLMs with Knowledge Graphs</h3>
+<h5>Allison Cossette</h5>
+- Retrieval augmented generation & graph databases
+- Neo4j: Nodes, Relationships, Properties
+- GraphRAG with Neo4j, Text2Cypher, GraphVector, GraphFiltering, AgentsAndMulti-Step, GraphContextVectorSearch
+- Starting Tips: Start small, data quality, draw data with arrows, 
+- Webtool for establishing data in database Neo4j LLM Knowledge Graph Builder & Extract Nodes and Relationships from Unstructured [Text](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
+
+
+
 TODO: 
 -  Python book author [here](https://hairysun.com/how-i-spent-three-years-writing-a-book)
 - Follow-up with any the sponsors from this event?
 - [Kwargs refresher](https://book.pythontips.com/en/latest/args_and_kwargs.html)
 - Ignore downstream deviations
+- Fix Links Above & linkedIn Connect? 
 
