@@ -136,7 +136,8 @@ Poetry may or not be one tool to solve everything? PyPI
 
 ---------
 #### TODO: 
--  Python book author [here](https://hairysun.com/how-i-spent-three-years-writing-a-book)
+- Python book author [here](https://hairysun.com/how-i-spent-three-years-writing-a-book)
+- Useful Tools: [replit](https://replit.com/languages/python3)
 - Follow-up with any the sponsors from this event?
 - [Kwargs refresher](https://book.pythontips.com/en/latest/args_and_kwargs.html)
 - Ignore downstream deviations
@@ -148,6 +149,6 @@ Poetry may or not be one tool to solve everything? PyPI
 <!-- 
 ### TODO stx: 
 Future Structure (stx):
-
+I SAW THE "YES" IT WAS CUTE! 
 --> 
 
