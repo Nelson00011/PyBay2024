@@ -16,6 +16,7 @@ Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hac
 - linked to github repo [here](https://pamelafox.github.io/improv-with-python/)
 - Improve with Python... fun, interactive talk using language models.
 
+
 <h3>Data Science: Apache Arrow, Pandas and Parquet</h3>
 
 Datasources -> Data Collection -> Data storage & Transofrmation
@@ -30,6 +31,7 @@ Datasources -> Data Collection -> Data storage & Transofrmation
    Prophet - weather forestcasting (combines seasons, holidays, etc..) Time series pitfalls... look up later
 Solution: Apache Arrow allows data transfer with ease (centralized system to plug into other databases)
 
+
 <h3>Data Science: Raising Python Quality in AI orgs</h3>
 
 - AI driven expert platform - look at raw slide deck at EoD
@@ -42,14 +44,16 @@ Solution: Apache Arrow allows data transfer with ease (centralized system to plu
 - Python tooling and automation 
     - Services: Rest, GraphQL, AI orch; Lambdas:; Machine Learning Models: Scikit xgboost, Tensor flow, PyTortch?
 Poetry may or not be one tool to solve everything? PyPI
-- 
+
 
 <h3>Automate City Data: Python</h3>
 
 - Philip James: phildini@phildini.net 
 - Involved in multiple companies: Crowdalert.com , etc... 
 
+
 <h3>Pyscript</h3>
+<h5>Fabio Pliger & Chris Laffra</h5>
 
 - PyScript [QR Code link](https://fpliger.pyscriptapps.com/talks-pybay-2024/latest/)
 - Platform that allows you to write proper python? 
@@ -62,13 +66,14 @@ Poetry may or not be one tool to solve everything? PyPI
 ``` <script type="mpy" scr-"./main.py" worker async></script> ```
 
 - Python editor element as well, LTK newer framework based on JQuery, PuePy?, BeeWare?, React Pyscript, Tufts has been using Pyscript this last year?
-  
+
+
 <h3>13 Fun Facts about Pythons</h3>
 
 - update accordingly? 
 - Email: allardbrain@gmail.com
 
-  
+
 <h3>Topic Model By Search</h3>
 
 - Clean up documents more, 
@@ -76,6 +81,7 @@ Poetry may or not be one tool to solve everything? PyPI
 - Embedding for that topic and store it in the cache? 
 - Training topic models, use case matter... localized topic embeddings improve results, 
 - kas@joinunified.us or .com? 
+
 
 <h3> Accelerating ML Prototyping</h3>
 <h5>Parul Gupta</h5>
@@ -86,16 +92,19 @@ Poetry may or not be one tool to solve everything? PyPI
 - Conda developed by Anaconda package management: lower learning curve? Model delivery can more freely play with github projects
 - Bento - internalized for Meta based on code bases within Meta? 
 
+
 <h3>Teaching Python?</h3>
 
 - Motivates learning and deeper understanding 
 - Keep it Simple Silly & Bloom's Taxonomy: Remember > Understand > Apply > Analyze > Evaluate > Create
 - Big Data is a potential concern? 
 
+
 <h3>Improve Part 2: Systems</h3>
 
 - PyTest: Testing code is incredibly important...
 - Test Automation Period?: Unit, Service, Browser
+
 
 <h3>Practical GraphRAG: LLMs with Knowledge Graphs</h3>
 <h5>Allison Cossette</h5>
@@ -105,6 +114,7 @@ Poetry may or not be one tool to solve everything? PyPI
 - GraphRAG with Neo4j, Text2Cypher, GraphVector, GraphFiltering, AgentsAndMulti-Step, GraphContextVectorSearch
 - Starting Tips: Start small, data quality, draw data with arrows, 
 - Webtool for establishing data in database Neo4j LLM Knowledge Graph Builder & Extract Nodes and Relationships from Unstructured [Text](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
+
 
 <h3>Pyre, Lints, Codemods, Code Quality, and you</h3>
 <h5>Maggie Moss</h5>
