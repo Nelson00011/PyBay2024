@@ -1,8 +1,7 @@
 <h1 align="center">PyBay 2024</h1>
 
-<p align="center">
-  <img src="https://global.discourse-cdn.com/business6/uploads/python1/original/3X/4/b/4ba1474ea28c832be8eb14eb84c255e6352e10ef.png" />
-</p>
+
+![image](https://github.com/user-attachments/assets/234f1421-4b34-45bb-90d2-0834d52f924a)
 
 ## Description:
 Collection of information from [PyBay 2024](https://pybay.org/) courtesy of [Hackbright Coding Academy Alumni Resources](https://hackbrightacademy.com/). Python Developers sharing information in regards to the Python Developer Community in the San Francisco, CA area. 
